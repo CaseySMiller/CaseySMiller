@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img src="./Assets/ProvokerEdit444.gif" width="100%" height="100%" />
+</p>
 
-<!--
-**CaseySMiller/CaseySMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Casey Miller
 
-Here are some ideas to get you started:
+> Full Stack Freelance Web Devolper and Tech Educator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction
+
+> lorem ipsum
+
+## Skills
+
+> React.js, JavaScript, Node.js, SQL, CSS3, Espress.js, HTML5, MongoDB, + more!
+
+---
+
+[![Linkedin Badge](<https://img.shields.io/badge/-Casey%20Miller-rgb(255%2C83%2C34)?style=social&logo=linkedin&labelColor=255%2C83%2C34&color=%23ff5322&link=https%3A%2F%2Fwww.instagram.com%2Fmateoxrodriguez%2F>)](https://www.linkedin.com/in/casey-miller-3b376444/) &nbsp; &nbsp; &nbsp; 
