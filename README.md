@@ -1,6 +1,8 @@
 <p align="center">
   <img src="./artificial-intelligence-3706562_1280.jpg" width="100%" height="100%" />
 </p>
+<!-- image from "https://pixabay.com/illustrations/artificial-intelligence-network-3706562/" 
+courtesy of "https://pixabay.com/users/geralt-9301/" Thanks Geralt!-->
 
 # Casey Miller
 
@@ -8,11 +10,11 @@
 
 ## Introduction
 
-> lorem ipsum
+> I am a freelance full stack web developer specializing in MERN and JamStack. I am also a tech educator for a Full Stack Development boot-camp. I enjoy building new and interesting applications and expanding my skillset to fit whatever project I am working on. I also love teaching and seeing my students grow as developers.
 
 ## Skills
 
-> React.js, JavaScript, Node.js, SQL, CSS3, Espress.js, HTML5, MongoDB, + more!
+> JavaScript, React.js Node.js, SQL, MongoDB, CSS, Espress.js, HTML5, GraphQL, RESTful API, Next.js, Vercel, Netlify, Heroku, AWS
 
 ---
 
