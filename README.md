@@ -21,10 +21,10 @@ courtesy of "https://pixabay.com/users/geralt-9301/" Thanks Geralt!-->
 
 ## My Profiles
 
-<a href="https://www.linkedin.com/in/casey-miller-3b376444/" target="_blank">
-  <img src="https://img.shields.io/badge/My-Linkedin-black?style=plastic&logo=linkedin&logoColor=white&labelColor=rgb(10%2C102%2C194)&color=rgb(61%2C61%2C61)">
-</a>
-&nbsp; | &nbsp; 
-<a href="https://casey-miller-portfolio.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/badge/My-Portfolio-black?style=plastic&logo=powershell&labelColor=rgb(85%2C85%2C85)&color=rgb(61%2C111%2C194)">
-</a>
+> <a href="https://www.linkedin.com/in/casey-miller-3b376444/" target="_blank">
+>   <img src="https://img.shields.io/badge/My-Linkedin-black?style=plastic&logo=linkedin&logoColor=white&labelColor=rgb(10%2C102%2C194)&color=rgb(61%2C61%2C61)">
+> </a>
+> &nbsp; &nbsp; &nbsp; 
+> <a href="https://casey-miller-portfolio.herokuapp.com/" target="_blank">
+>   <img src="https://img.shields.io/badge/My-Portfolio-black?style=plastic&logo=powershell&labelColor=rgb(85%2C85%2C85)&color=rgb(61%2C111%2C194)">
+> </a>
