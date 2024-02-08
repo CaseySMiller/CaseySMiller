@@ -11,6 +11,8 @@ courtesy of "https://pixabay.com/users/geralt-9301/" Thanks Geralt!-->
 ## Introduction
 
 > I'm a full-stack, freelance web developer specializing in MERN/SERN and JamStack. I'm also a tech educator for a Full Stack Development boot-camp. I enjoy building new and interesting applications and expanding my skillset to fit whatever project I am working on. I also love teaching and seeing my students grow as developers.
+>
+> I am constantly immersed in coding on a daily basis and I love this world. This may not show on my activity graph because due to the nature of my job I spend most of my time helping others with their own repos so I am not able to make nearly as many of my own commits as I would like.
 
 ## Skills
 
